@@ -15,6 +15,7 @@ We developed a predictive framework to:
 - Train models using SNPs, gene expression (TPM), or combined features  
 - Interpret predictions via SHAP values to identify key genetic, GxE, and epistatic interactions  
 - Assess feature stability across environments (TX, MI) and model trait plasticity
+
 **Key findings:**
 
 - SHAP-based models identify transcripts predictive of traits and their plasticity across environments
