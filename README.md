@@ -51,6 +51,7 @@ Machine learning scripts for predictive modeling
 | `1_xGBoost_SNP_T.py` | Model using combined SNP + TPM features |
 | `2_xGBoost_*_featselection.py` | Scripts for feature selection and SHAP analysis |
 | `3_xGBoost_diff_*_shapinteraction_matrix_10runs.py` | SHAP interaction matrix generation over 10 reps |
+| `4_BRR_SNP_T_SNPT.r` | BRR models using SNP, TPM, and combined SNP+TPM features |
 
 ---
 
